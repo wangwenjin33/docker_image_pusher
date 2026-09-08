@@ -1,2 +1,4 @@
 nginx:1.24-alpine
 registry:2
+mysql:8
+tensorflow:latest-jupyter
